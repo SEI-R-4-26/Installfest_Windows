@@ -350,6 +350,10 @@ MongoDB is a document-based database that we'll be using throughout this course.
 sudo apt-get install mongodb
 ```
 
+```sh
+sudo service start mongodb
+```
+
 Confirm the installation with the following command:
 
 ```sh
