@@ -351,7 +351,7 @@ sudo apt-get install mongodb
 ```
 
 ```sh
-sudo service start mongodb
+sudo service mongodb start
 ```
 
 Confirm the installation with the following command:
